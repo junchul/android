@@ -50,6 +50,7 @@ import android.hardware.usb.UsbInterface;
 import android.hardware.usb.UsbManager;
 import android.util.Log;
 import android.view.Menu;
+//import android.view.menu
 
 public class MainActivity extends Activity implements Runnable{
 	
